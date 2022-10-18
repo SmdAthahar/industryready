@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+athahar
+vscode
+pycharm
